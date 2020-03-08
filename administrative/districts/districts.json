@@ -1,0 +1,310 @@
+[
+  {
+    "DISTRICT": "ACHHAM",
+    "IDENTIFIER": "ACH"
+  },
+  {
+    "DISTRICT": "ARGHAKHANCHI",
+    "IDENTIFIER": "ARG"
+  },
+  {
+    "DISTRICT": "BAGLUNG",
+    "IDENTIFIER": "BAG"
+  },
+  {
+    "DISTRICT": "BAITADI",
+    "IDENTIFIER": "BTD"
+  },
+  {
+    "DISTRICT": "BAJHANG",
+    "IDENTIFIER": "BJH"
+  },
+  {
+    "DISTRICT": "BAJURA",
+    "IDENTIFIER": "BJR"
+  },
+  {
+    "DISTRICT": "BANKE",
+    "IDENTIFIER": "BNK"
+  },
+  {
+    "DISTRICT": "BARA",
+    "IDENTIFIER": "BRA"
+  },
+  {
+    "DISTRICT": "BARDIYA",
+    "IDENTIFIER": "BRD"
+  },
+  {
+    "DISTRICT": "BHAKTAPUR",
+    "IDENTIFIER": "BKT"
+  },
+  {
+    "DISTRICT": "BHOJPUR",
+    "IDENTIFIER": "BJP"
+  },
+  {
+    "DISTRICT": "CHITAWAN",
+    "IDENTIFIER": "CTW"
+  },
+  {
+    "DISTRICT": "DADELDHURA",
+    "IDENTIFIER": "DDR"
+  },
+  {
+    "DISTRICT": "DAILEKH",
+    "IDENTIFIER": "DAI"
+  },
+  {
+    "DISTRICT": "DANG",
+    "IDENTIFIER": "DNG"
+  },
+  {
+    "DISTRICT": "DARCHULA",
+    "IDENTIFIER": "DRC"
+  },
+  {
+    "DISTRICT": "DHADING",
+    "IDENTIFIER": "DHA"
+  },
+  {
+    "DISTRICT": "DHANKUTA",
+    "IDENTIFIER": "DKT"
+  },
+  {
+    "DISTRICT": "DHANUSHA",
+    "IDENTIFIER": "DNS"
+  },
+  {
+    "DISTRICT": "DOLAKHA",
+    "IDENTIFIER": "DLK"
+  },
+  {
+    "DISTRICT": "DOLPA",
+    "IDENTIFIER": "DLP"
+  },
+  {
+    "DISTRICT": "DOTI",
+    "IDENTIFIER": "DOT"
+  },
+  {
+    "DISTRICT": "GORKHA",
+    "IDENTIFIER": "GOR"
+  },
+  {
+    "DISTRICT": "GULMI",
+    "IDENTIFIER": "GUL"
+  },
+  {
+    "DISTRICT": "HUMLA",
+    "IDENTIFIER": "HUM"
+  },
+  {
+    "DISTRICT": "ILAM",
+    "IDENTIFIER": "ILM"
+  },
+  {
+    "DISTRICT": "JAJARKOT",
+    "IDENTIFIER": "JJK"
+  },
+  {
+    "DISTRICT": "JHAPA",
+    "IDENTIFIER": "JHP"
+  },
+  {
+    "DISTRICT": "JUMLA",
+    "IDENTIFIER": "JUM"
+  },
+  {
+    "DISTRICT": "KAVREPALANCHOK",
+    "IDENTIFIER": "KVR"
+  },
+  {
+    "DISTRICT": "KAILALI",
+    "IDENTIFIER": "KLL"
+  },
+  {
+    "DISTRICT": "KALIKOT",
+    "IDENTIFIER": "KLK"
+  },
+  {
+    "DISTRICT": "KANCHANPUR",
+    "IDENTIFIER": "KNC"
+  },
+  {
+    "DISTRICT": "KAPILBASTU",
+    "IDENTIFIER": "KBT"
+  },
+  {
+    "DISTRICT": "KASKI",
+    "IDENTIFIER": "KSK"
+  },
+  {
+    "DISTRICT": "KATHMANDU",
+    "IDENTIFIER": "KTM"
+  },
+  {
+    "DISTRICT": "KHOTANG",
+    "IDENTIFIER": "KHO"
+  },
+  {
+    "DISTRICT": "LALITPUR",
+    "IDENTIFIER": "LTP"
+  },
+  {
+    "DISTRICT": "LAMJUNG",
+    "IDENTIFIER": "LMJ"
+  },
+  {
+    "DISTRICT": "MAHOTTARI",
+    "IDENTIFIER": "MHT"
+  },
+  {
+    "DISTRICT": "MAKAWANPUR",
+    "IDENTIFIER": "MKW"
+  },
+  {
+    "DISTRICT": "MANANG",
+    "IDENTIFIER": "MNG"
+  },
+  {
+    "DISTRICT": "MORANG",
+    "IDENTIFIER": "MOR"
+  },
+  {
+    "DISTRICT": "MUGU",
+    "IDENTIFIER": "MUG"
+  },
+  {
+    "DISTRICT": "MUSTANG",
+    "IDENTIFIER": "MUS"
+  },
+  {
+    "DISTRICT": "MYAGDI",
+    "IDENTIFIER": "MYG"
+  },
+  {
+    "DISTRICT": "NAWALPUR",
+    "IDENTIFIER": "NWP"
+  },
+  {
+    "DISTRICT": "NUWAKOT",
+    "IDENTIFIER": "NWK"
+  },
+  {
+    "DISTRICT": "OKHALDHUNGA",
+    "IDENTIFIER": "OKH"
+  },
+  {
+    "DISTRICT": "PALPA",
+    "IDENTIFIER": "PLP"
+  },
+  {
+    "DISTRICT": "PANCHTHAR",
+    "IDENTIFIER": "PHT"
+  },
+  {
+    "DISTRICT": "PARASI",
+    "IDENTIFIER": "PSI"
+  },
+  {
+    "DISTRICT": "PARBAT",
+    "IDENTIFIER": "PBT"
+  },
+  {
+    "DISTRICT": "PARSA",
+    "IDENTIFIER": "PSA"
+  },
+  {
+    "DISTRICT": "PYUTHAN",
+    "IDENTIFIER": "PYU"
+  },
+  {
+    "DISTRICT": "RAMECHHAP",
+    "IDENTIFIER": "RMC"
+  },
+  {
+    "DISTRICT": "RASUWA",
+    "IDENTIFIER": "RSW"
+  },
+  {
+    "DISTRICT": "RAUTAHAT",
+    "IDENTIFIER": "RAU"
+  },
+  {
+    "DISTRICT": "ROLPA",
+    "IDENTIFIER": "ROL"
+  },
+  {
+    "DISTRICT": "RUKUM EAST",
+    "IDENTIFIER": "RUE"
+  },
+  {
+    "DISTRICT": "RUKUM WEST",
+    "IDENTIFIER": "RUW"
+  },
+  {
+    "DISTRICT": "RUPANDEHI",
+    "IDENTIFIER": "RUP"
+  },
+  {
+    "DISTRICT": "SALYAN",
+    "IDENTIFIER": "SAL"
+  },
+  {
+    "DISTRICT": "SANKHUWASABHA",
+    "IDENTIFIER": "SKS"
+  },
+  {
+    "DISTRICT": "SAPTARI",
+    "IDENTIFIER": "SPT"
+  },
+  {
+    "DISTRICT": "SARLAHI",
+    "IDENTIFIER": "SRL"
+  },
+  {
+    "DISTRICT": "SINDHULI",
+    "IDENTIFIER": "SND"
+  },
+  {
+    "DISTRICT": "SINDHUPALCHOK",
+    "IDENTIFIER": "SDP"
+  },
+  {
+    "DISTRICT": "SIRAHA",
+    "IDENTIFIER": "SIR"
+  },
+  {
+    "DISTRICT": "SOLUKHUMBU",
+    "IDENTIFIER": "SOL"
+  },
+  {
+    "DISTRICT": "SUNSARI",
+    "IDENTIFIER": "SUN"
+  },
+  {
+    "DISTRICT": "SURKHET",
+    "IDENTIFIER": "SUR"
+  },
+  {
+    "DISTRICT": "SYANGJA",
+    "IDENTIFIER": "SNJ"
+  },
+  {
+    "DISTRICT": "TANAHU",
+    "IDENTIFIER": "TNH"
+  },
+  {
+    "DISTRICT": "TAPLEJUNG",
+    "IDENTIFIER": "TPJ"
+  },
+  {
+    "DISTRICT": "TERHATHUM",
+    "IDENTIFIER": "THT"
+  },
+  {
+    "DISTRICT": "UDAYAPUR",
+    "IDENTIFIER": "UDP"
+  }
+]
